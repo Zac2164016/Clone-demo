@@ -11,3 +11,5 @@ You can edit this file by typing on a new line. Say hello. Pass encouraging word
 `Hello, Everyone! Glad to be on this journey with you.`
 
 `Hello everyone! Excited to to get started learning some interesting skills!`
+
+Hello! Additional Sync practice.
